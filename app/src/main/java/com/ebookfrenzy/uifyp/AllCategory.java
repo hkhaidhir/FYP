@@ -18,7 +18,7 @@ import com.ebookfrenzy.uifyp.model.AllCategoryModel;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//
 public class AllCategory extends AppCompatActivity {
 
     RecyclerView AllCategoryRecycler;
