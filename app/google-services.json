@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499962264953",
+    "project_id": "e-market-484fc",
+    "storage_bucket": "e-market-484fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499962264953:android:61f784c56ec705d9b343a8",
+        "android_client_info": {
+          "package_name": "com.ebookfrenzy.uifyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499962264953-gmdi9rh7vr11sg3b8su6aplvo6do7eqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGf6m-nN1_53htbPX6s-lT5E5ZKehqSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499962264953-gmdi9rh7vr11sg3b8su6aplvo6do7eqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">UI FYP</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="button_send">Send</string>
+    <string name="textview">TextView</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="error_message_name">Enter Valid Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Valid Password</string>
+    <string name="success_message">Successfully registered</string>
+    <string name="error_email_exists">Email already existed</string>
+    <string name="error_valid_email_password">Wrong password</string>
+    <string name="text_login">Login</string>
+    <string name="text_not_member">No account yet? Create One</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="homepage">homepage</string>
+    <string name="back">Back</string>
+    <string name="map">Map</string>
+    <string name="item_category">Product Category</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="spinner_option">
+        <item name = "product_category">Product Category</item>
+        <item name = "shoes_category"></item>
+        <item name = "bags_category"></item>
+        <item name = "sports_category"></item>
+        <item name = "electronic_category"></item>
+        <item name = "appliances_category"></item>
+        <item name = "clothes_category"></item>
+    </string-array>
+</resources>
